@@ -1,0 +1,62 @@
+```
+# Compiled and build artifacts
+*.pyc
+__pycache__/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.out
+
+# Dependencies
+.venv/
+venv/
+env/
+node_modules/
+
+# Build and distribution
+build/
+dist/
+*.spec
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage
+.coverage
+coverage/
+htmlcov/
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Setup and installation
+*.msi
+*.app
+*.dmg
+*.deb
+*.rpm
+install.bat
+installer.nsi
+```
